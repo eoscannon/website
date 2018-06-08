@@ -1,0 +1,46 @@
+{
+  "producer_account_name": "eoscannonchn",
+  "producer_public_key": "EOS73cTi9V7PNg4ujW5QzoTfRSdhH44MPiUJkUV6m3oGwj7RX7kML",
+  "org": {
+    "candidate_name": "EOS Cannon",
+    "website": "https://eoscannon.io",
+    "code_of_conduct":"",
+    "email":"contact@eoscannon.io",
+    "branding":{
+      "logo_256":"https://github.com/eoscannon/website/raw/master/eoscannon-logo-256x256.png",
+      "logo_1024":"https://github.com/eoscannon/website/raw/master/eoscannon-logo-1024x1024.png",
+      "logo_svg":""
+    },
+    "location": {
+      "name": "Shanghai, China",
+      "country": "CN",
+      "latitude": 31.2304,
+      "longitude": 121.4737
+    },
+    "social": {
+      "steemit": "eoscannon",
+      "twitter": "cannon_eos",
+      "youtube": "",
+      "facebook": "",
+      "github":"eoscannon",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "",
+      "wechat":""
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "Seoul",
+        "country": "South Kerea",
+        "latitude": 35.9078,
+        "longitude": 127.7669
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
